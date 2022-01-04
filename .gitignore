@@ -1,0 +1,27 @@
+# Gradle build files
+build/
+.gradle/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package files #
+*.jar
+*.zip
+*.tar.gz
+
+# Virtual Machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# others
+.DS_Store
